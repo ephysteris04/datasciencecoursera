@@ -2,8 +2,8 @@
 title: "HelloWorld"
 author: "ephysteris04"
 date: "July 17, 2020"
-md_document: 
-    variant: hello.world
+md_document:
+  variant: hello.world
 ---
 
 ```{r setup, include=FALSE}
