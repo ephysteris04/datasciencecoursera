@@ -1,8 +1,10 @@
 ---
 title: "HelloWorld"
 author: "ephysteris04"
-date: "July 17, 2020"
-output: pdf_document
+date: "July 20, 2020"
+output: 
+md_document: 
+    variant: hello.world
 ---
 
 ```{r setup, include=FALSE}
